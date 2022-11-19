@@ -7,8 +7,10 @@
 
 
 **TEAM MEMBERS:**
-Team lead Jagadeeshwaran 
-          jyothi Adithiya
+Team lead 
+
+          Jagadeeshwaran R
+          jyothi Adithiya 
           Hemaraj
           karthikeyan m 
 
